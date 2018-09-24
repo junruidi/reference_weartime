@@ -1,2 +1,2 @@
 # reference_weartime
-This repo contains a word document listing all studies with NHANES actigraphy data and using the "10 hour" weartime criteria to define a valid day.
+This repo contains a word document listing all studies with NHANES actigraphy data that used the "10 hour" weartime criteria to define a valid day. It is supplementary to a letter we wrote to address potential problems caused by this definition.
